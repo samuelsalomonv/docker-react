@@ -1,3 +1,10 @@
+# Udemy docker course
+This repository was build following the instructions from section 7:
+[Docker and Kubernetes course readme file](https://github.com/samuelsalomonv/docker-course-1/blob/50ffd15fdbee942c01099e2f8dc288c8e43aadc0/01-docker-and-kubernates/README.md)
+
+Source code:
+[3-frontend](https://github.com/samuelsalomonv/docker-course-1/blob/958f7a61cf43b1131c075a70891ea2eaacac5b57/01-docker-and-kubernates/3-frontend)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
